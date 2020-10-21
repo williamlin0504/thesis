@@ -3,4 +3,8 @@
 
 * This github page is for my graduation thesis
 
-* On Branch: William
+> On Branch: William
+
+## Testing
+* Setting OCS architecture
+* Using Free5GC
