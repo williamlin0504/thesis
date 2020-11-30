@@ -5,6 +5,8 @@
 
 > On Branch: William
 
+<img src="image/converged_arch.png" />
+
 ## Testing
 * Setting OCS architecture
 * Using Free5GC
