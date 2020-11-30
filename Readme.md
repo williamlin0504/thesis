@@ -5,8 +5,12 @@
 
 > On Branch: William
 
-<img src="image/converged_arch.png" />
+<img src="image/converged_arch.jpg"/>
 
 ## Testing
 * Setting OCS architecture
 * Using Free5GC
+
+## Works
+
+* [API Gateway Integrate with DynamoDB](https://github.com/williamlin0504/thesis/blob/William/API_Gateway_Integrate_with_DynamoDB.md)
