@@ -7,9 +7,12 @@
 
 <img src="image/converged_arch.jpg"/>
 
-## Testing
-* Setting OCS architecture
+## Concepts
 * Using Free5GC
+* Add Online Charging Function to Free5GC
+* Trigger the OCF with AWS
+* Store CDR into DynamoDB
+
 
 ## Works
 
