@@ -12,8 +12,3 @@
 * Add Online Charging Function to Free5GC
 * Trigger the OCF with AWS
 * Store CDR into DynamoDB
-
-
-## Works
-
-* [API Gateway Integrate with DynamoDB](https://github.com/williamlin0504/thesis/blob/William/API_Gateway_Integrate_with_DynamoDB.md)
