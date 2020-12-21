@@ -8,7 +8,7 @@
 * [Free5GC Github](https://github.com/free5gc/free5gc)
 
 ## Works
-- [ocf.go](/ocf.go)
+- [ocf.go](../ocf(free5gc)/ocf.go)
 - [service/ocf_init.go](ocf(free5gc)/service/ocf_init.go)
 - [logger/logger.go](ocf(free5gc)/logger/logger.go)
 - [version/version.go](ocf(free5gc)/version/version.go)
