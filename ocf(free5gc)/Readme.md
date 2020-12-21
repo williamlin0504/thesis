@@ -9,9 +9,9 @@
 
 ## Works
 - [ocf.go](../ocf(free5gc)/ocf.go)
-- [service/ocf_init.go](ocf(free5gc)/service/ocf_init.go)
-- [logger/logger.go](ocf(free5gc)/logger/logger.go)
-- [version/version.go](ocf(free5gc)/version/version.go)
-- [factory/factory.go](ocf(free5gc)/factory/factory.go)
-- [factory/config.go](ocf(free5gc)/factory/config.go)
-- (?)[context/context.go](ocf(free5gc)/context/context.go)
+- [service/ocf_init.go](../ocf(free5gc)/service/ocf_init.go)
+- [logger/logger.go](../ocf(free5gc)/logger/logger.go)
+- [version/version.go](../ocf(free5gc)/version/version.go)
+- [factory/factory.go](../ocf(free5gc)/factory/factory.go)
+- [factory/config.go](../ocf(free5gc)/factory/config.go)
+- (?)[context/context.go](../ocf(free5gc)/context/context.go)
