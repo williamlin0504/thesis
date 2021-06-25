@@ -9,6 +9,6 @@
 
 ## Concepts
 * Using Free5GC
-* Add Online Charging Function to Free5GC
-* Trigger the OCF with AWS
+* Set up serverless Online Charging Function with Lambda and API Gateway
 * Store CDR into DynamoDB
+* Use Milan Dataset
