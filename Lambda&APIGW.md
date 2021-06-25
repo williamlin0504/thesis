@@ -9,6 +9,7 @@
         "ue_ID": "$input.params('ue_ID')"
     }
     ```
+* DynamoDB - Subscribe_User, PK `ue-ID`
 
 ### Registration
 ```python
