@@ -21,3 +21,4 @@
 ## Works
 * [Lambda & API Gateway](https://github.com/williamlin0504/thesis/blob/main/Lambda%26APIGW.md)
 * [free5gc Test Modify](https://github.com/williamlin0504/thesis/blob/main/free5gc_Test_Modify.md)
+* [free5gc YAML Deploy](https://github.com/williamlin0504/thesis/blob/main/Cloudformation_Yaml.md)
