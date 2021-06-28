@@ -18,7 +18,16 @@
 
 <img src="image/OCFasAWS.png"/>
 
-## Works
+## Set up
+
 * [Lambda & API Gateway](https://github.com/williamlin0504/thesis/blob/main/Lambda%26APIGW.md)
+
+* Clone the modified repository
+```cmd
+$ git clone --recursive https://github.com/williamlin0504/free5gcWithOCF.git
+```
+
+
+## Set up previously
 * [free5gc Test Modify](https://github.com/williamlin0504/thesis/blob/main/free5gc_Test_Modify.md)
 * [free5gc YAML Deploy](https://github.com/williamlin0504/thesis/blob/main/Cloudformation_Yaml.md)
