@@ -1,4 +1,4 @@
-# Lambda Part
+# Lambda & API Gateway Part
 
 ## Prerequisite
 * API Gateway for each Lambda Function
