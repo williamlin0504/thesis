@@ -23,7 +23,7 @@
 * [Lambda & API Gateway](https://github.com/williamlin0504/thesis/blob/main/Lambda%26APIGW.md)
 
 * Clone the modified repository
-```cmd
+```cli
 $ git clone --recursive https://github.com/williamlin0504/free5gcWithOCF.git
 ```
 
